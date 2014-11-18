@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SSIWMS.iml" filepath="$PROJECT_DIR$/SSIWMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSIWMS-grailsPlugins.iml" filepath="$PROJECT_DIR$/SSIWMS-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
