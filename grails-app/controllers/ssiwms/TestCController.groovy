@@ -2,5 +2,7 @@ package ssiwms
 
 class TestCController {
 
-    def index() { }
+    def index() {
+    render("Hello World")
+    }
 }
